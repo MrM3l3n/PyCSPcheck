@@ -23,13 +23,12 @@ You can install the necessary packages using `pip` with the following command:
 ```bash
 pip3 install -r requirements.txt
 ```
-```Usage
-
+Usage
     Clone the repository or download the script.
-    https://github.com/MrM3l3n/PyCSPcheck.git
+   ``` https://github.com/MrM3l3n/PyCSPcheck.git ```
     Navigate to the directory containing the script.
     Run the script with the following command:
-```
+
 
 ```bash
 
