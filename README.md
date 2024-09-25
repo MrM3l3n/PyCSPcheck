@@ -22,13 +22,15 @@ You can install the necessary packages using `pip` with the following command:
 
 ```bash
 pip3 install -r requirements.txt
-
+```
 Usage
 
     Clone the repository or download the script.
     Navigate to the directory containing the script.
     Run the script with the following command:
 
-bash
+
+```bash
 
 python csp_checker.py
+```
